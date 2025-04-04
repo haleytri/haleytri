@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hello! 👋
+<p align="center"><strong>Welcome to my Github!</strong></p> 
 
 <!--
 **haleytri/haleytri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
